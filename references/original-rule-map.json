@@ -1,0 +1,1005 @@
+{
+  "schema": 1,
+  "source": "references/frontend-design-rules.md",
+  "rules": [
+    {
+      "id": "af5260b659db21ba",
+      "section": "单一来源与执行入口",
+      "source_line": 6,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "3369e6baa4d66285",
+      "section": "单一来源与执行入口",
+      "source_line": 7,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "11797c7d2ddc6934",
+      "section": "单一来源与执行入口",
+      "source_line": 8,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "295f87ce5dc655bd",
+      "section": "单一来源与执行入口",
+      "source_line": 9,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "8c96c1c2d1488607",
+      "section": "读取时机",
+      "source_line": 12,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "e770ef57c779f605",
+      "section": "读取时机",
+      "source_line": 13,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "96d31a2868fb8486",
+      "section": "读取时机",
+      "source_line": 14,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "7f59cdc3c9a95492",
+      "section": "适用边界与冲突处理",
+      "source_line": 17,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "e850807ed5ca337d",
+      "section": "适用边界与冲突处理",
+      "source_line": 18,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:e850807ed5ca337d",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "4f6417c1fbdecdf1",
+      "section": "适用边界与冲突处理",
+      "source_line": 19,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:4f6417c1fbdecdf1",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "7ad29b74f6fe1ab2",
+      "section": "适用边界与冲突处理",
+      "source_line": 20,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:7ad29b74f6fe1ab2",
+      "limitation": "Necessity requires contextual review. Text length cannot establish it.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "af43ba2be5037fe8",
+      "section": "适用边界与冲突处理",
+      "source_line": 21,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:af43ba2be5037fe8",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "2db2e5b2fa4761ec",
+      "section": "适用边界与冲突处理",
+      "source_line": 22,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "360f809c7e64c465",
+      "section": "生图工具：统一使用内置 Image",
+      "source_line": 25,
+      "method": "tool_provenance",
+      "route": "actual Image/Context7 tool execution and transcript",
+      "limitation": "A path or claimed origin in JSON is not authenticated provenance. Missing real tool history remains unverified.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "89e35b831ad4c421",
+      "section": "生图工具：统一使用内置 Image",
+      "source_line": 26,
+      "method": "tool_provenance",
+      "route": "actual Image/Context7 tool execution and transcript",
+      "limitation": "A path or claimed origin in JSON is not authenticated provenance. Missing real tool history remains unverified.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "e99eff3758572667",
+      "section": "生图工具：统一使用内置 Image",
+      "source_line": 27,
+      "method": "tool_provenance",
+      "route": "actual Image/Context7 tool execution and transcript",
+      "limitation": "A path or claimed origin in JSON is not authenticated provenance. Missing real tool history remains unverified.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "3ed55b0a7ef20d33",
+      "section": "生图工具：统一使用内置 Image",
+      "source_line": 28,
+      "method": "tool_provenance",
+      "route": "actual Image/Context7 tool execution and transcript",
+      "limitation": "A path or claimed origin in JSON is not authenticated provenance. Missing real tool history remains unverified.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "3d53a429e42ebe68",
+      "section": "生图工具：统一使用内置 Image",
+      "source_line": 29,
+      "method": "tool_provenance",
+      "route": "actual Image/Context7 tool execution and transcript",
+      "limitation": "A path or claimed origin in JSON is not authenticated provenance. Missing real tool history remains unverified.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "05075eedf85f0587",
+      "section": "生图工具：统一使用内置 Image",
+      "source_line": 30,
+      "method": "tool_provenance",
+      "route": "actual Image/Context7 tool execution and transcript",
+      "limitation": "A path or claimed origin in JSON is not authenticated provenance. Missing real tool history remains unverified.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "dd32d7bc9fe31211",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 33,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "49b9980fc6982944",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 34,
+      "method": "workflow",
+      "route": "Actual StyleKit query history + discovery_gaps + four Image outputs",
+      "limitation": "Metadata and comparisons require review of actual source responses and generated images.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "fe3820a6a4c88bbb",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 35,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "17566443464febf8",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 36,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "29969c70444057d2",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 37,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "60af845dfc07110b",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 38,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "bdb20b4716f6dc2f",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 39,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "0e4380ebd34ac091",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 40,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "0cf07c541af18357",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 41,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "dde5eacebb9fa51f",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 42,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "ff85c8191249ce0b",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 43,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection + actual style labels + regional reference comparison + evidence-derived checklist",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "baba3e33d90d1ee7",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 44,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "b3d7d3c14eb9d9cb",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 45,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "5367f373c129c921",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 46,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "aa5e8acdfee31614",
+      "section": "第一阶段：四套色调与风格参考",
+      "source_line": 47,
+      "method": "workflow",
+      "route": "Actual four Image outputs and short theme labels in conversation; then real user selection",
+      "limitation": "Lightweight style exploration only. No gallery, browser QA, formal per-rule visual review or final UI acceptance is implied.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "bf1e7070741ed7d5",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 50,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "5a03e0d3e229a3fe",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 51,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "0780f7a99861eb05",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 52,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:0780f7a99861eb05",
+      "limitation": "Complete source and language identity are checked. Semantic implementation requires project checks and actual review.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "5651cd058cbcc44d",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 53,
+      "method": "workflow",
+      "route": "preflight.design_gaps + design.md fingerprint + actual design review",
+      "limitation": "Checks document structure and revision binding. Concrete design quality requires review.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "e613ba117ead8c8c",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 54,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "a29a4e9cd0c636c4",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 55,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "991bdf79bde307ea",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 56,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:991bdf79bde307ea",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "603c0e9888dd7957",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 57,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:603c0e9888dd7957",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "58ccc8ffbecc9f12",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 58,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "ca05cfdd57f709db",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 59,
+      "method": "tool_provenance",
+      "route": "verify.py component_findings: selection/version/docs/import/use/customization records; actual Context7/official tool history review",
+      "limitation": "A path or claimed origin in JSON is not authenticated provenance. Missing real tool history remains unverified.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "20e7b19ea7d8a307",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 60,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:20e7b19ea7d8a307",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "6da989e257f08e10",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 61,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:6da989e257f08e10",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "5334cdd609151fb7",
+      "section": "第二阶段：选定风格后，落实全部规则",
+      "source_line": 62,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "30ded9edeeab86fa",
+      "section": "设计立场",
+      "source_line": 65,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:30ded9edeeab86fa",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "b56a96d0414cec5f",
+      "section": "设计立场",
+      "source_line": 66,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:b56a96d0414cec5f",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "6ac24200707e55e8",
+      "section": "设计立场",
+      "source_line": 67,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:6ac24200707e55e8",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "3c26f43e12898337",
+      "section": "设计立场",
+      "source_line": 68,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:3c26f43e12898337",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "193cb3614941e213",
+      "section": "配色与背景",
+      "source_line": 71,
+      "method": "automated",
+      "route": "verify.py source_findings/browser_findings/verify/hook",
+      "limitation": "Only the supported executable subset is checked. Scan candidates and remaining semantics require actual review; no match is not full compliance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "1bea69f45c8b2da8",
+      "section": "配色与背景",
+      "source_line": 72,
+      "method": "automated",
+      "route": "verify.py source_findings/browser_findings/verify/hook",
+      "limitation": "Only the supported executable subset is checked. Scan candidates and remaining semantics require actual review; no match is not full compliance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "79c33ea34ab4fc74",
+      "section": "配色与背景",
+      "source_line": 73,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:aebcfe3d9cee090b + design_plan regional decisions + fixed-browser actual measurements + reference_fidelity comparison",
+      "limitation": "Machine checks validate coverage, bytes and observed changes; color/material fidelity, illustration richness and coherent feedback still require screenshot review and protected visual approval.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "0351f3b75432cb43",
+      "section": "配色与背景",
+      "source_line": 74,
+      "method": "advisory",
+      "route": "design choice in implementation checklist",
+      "limitation": "Examples and candidate libraries are guidance, not mandatory fixed palettes, copy or dependencies.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "dd0431ee27b20717",
+      "section": "布局与字体",
+      "source_line": 77,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:dd0431ee27b20717",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "50ccbdd671f4f629",
+      "section": "布局与字体",
+      "source_line": 78,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:50ccbdd671f4f629",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "47ab9eefd843aaac",
+      "section": "布局与字体",
+      "source_line": 79,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:47ab9eefd843aaac",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "3532792e8cebb575",
+      "section": "布局与字体",
+      "source_line": 80,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:b1d8115338570392 + actual style labels + regional reference comparison + evidence-derived checklist + typography declared/actual glyph checks + delivery-review current evidence receipt",
+      "limitation": "Font measurements identify rendered families; final quality and improvement judgments require actual scoped observations and applicable independent approval.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "03bbe927f19fe1c9",
+      "section": "布局与字体",
+      "source_line": 81,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:f61a7e8e5f57c466 + actual style labels + regional reference comparison + evidence-derived checklist",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "54d10604df0e562d",
+      "section": "页面文案",
+      "source_line": 84,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:54d10604df0e562d",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "d19258cc72212c2e",
+      "section": "页面文案",
+      "source_line": 85,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:d19258cc72212c2e",
+      "limitation": "Necessity requires contextual review. Text length cannot establish it.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "f7e426af50c8859c",
+      "section": "页面文案",
+      "source_line": 86,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:f7e426af50c8859c",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "5ede33affc9074b3",
+      "section": "页面文案",
+      "source_line": 87,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:5ede33affc9074b3",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "9c4837548537d2ad",
+      "section": "页面文案",
+      "source_line": 88,
+      "method": "advisory",
+      "route": "design choice in implementation checklist",
+      "limitation": "Examples and candidate libraries are guidance, not mandatory fixed palettes, copy or dependencies.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "3fda291e322e106f",
+      "section": "组件与动效",
+      "source_line": 91,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:0c8651e324afc739 + design_plan regional decisions + fixed-browser actual measurements + reference_fidelity comparison",
+      "limitation": "Machine checks validate coverage, bytes and observed changes; color/material fidelity, illustration richness and coherent feedback still require screenshot review and protected visual approval.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "53e3e533de3a6987",
+      "section": "组件与动效",
+      "source_line": 92,
+      "method": "automated",
+      "route": "verify.py source_findings/browser_findings/verify/hook",
+      "limitation": "Only the supported executable subset is checked. Scan candidates and remaining semantics require actual review; no match is not full compliance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "7c3b1ac210c6e7fb",
+      "section": "组件与动效",
+      "source_line": 93,
+      "method": "automated",
+      "route": "preflight dynamic plan + executed browser trigger/result steps + visual review",
+      "limitation": "Plans and execution sequences do not prove aesthetic fit. Review the actual interactions.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "55c3e3a31b8a7184",
+      "section": "组件与动效",
+      "source_line": 94,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:55c3e3a31b8a7184",
+      "limitation": "File binding validates current code identity. Tool provenance and visual suitability need actual review.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "5ac8813680796219",
+      "section": "组件与动效",
+      "source_line": 95,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:5ac8813680796219",
+      "limitation": "Examples and candidate libraries are guidance, not mandatory fixed palettes, copy or dependencies.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "8bd7b0ddd19d3e70",
+      "section": "组件与动效",
+      "source_line": 96,
+      "method": "tool_provenance",
+      "route": "verify.py component_findings: selection/version/docs/import/use/customization records; actual Context7/official tool history review",
+      "limitation": "A path or claimed origin in JSON is not authenticated provenance. Missing real tool history remains unverified.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "120c5cc935cdc616",
+      "section": "图像与空间效果",
+      "source_line": 99,
+      "method": "tool_provenance",
+      "route": "actual Image/Context7 tool execution and transcript",
+      "limitation": "A path or claimed origin in JSON is not authenticated provenance. Missing real tool history remains unverified.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "f385163e4625ea70",
+      "section": "图像与空间效果",
+      "source_line": 100,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:f385163e4625ea70",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "2a3737a7d13dfff0",
+      "section": "图像与空间效果",
+      "source_line": 101,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history + design_plan regional decisions + fixed-browser actual measurements + reference_fidelity comparison",
+      "limitation": "Machine checks validate coverage, bytes and observed changes; color/material fidelity, illustration richness and coherent feedback still require screenshot review and protected visual approval.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "f01d1b61d4e0d4c4",
+      "section": "图像与空间效果",
+      "source_line": 102,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:f01d1b61d4e0d4c4",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "dd28c77de09f0c7d",
+      "section": "图像与空间效果",
+      "source_line": 103,
+      "method": "automated",
+      "route": "verify.py asset_findings: built-in origin declaration, generated content role, actual usage, response/file hash identity, registered reference exclusion; actual tool and visual review remain required",
+      "limitation": "Only the supported executable subset is checked. Scan candidates and remaining semantics require actual review; no match is not full compliance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "0893a0091950f7af",
+      "section": "图像与空间效果",
+      "source_line": 104,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:0893a0091950f7af",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "6b0a15c7aa86ba58",
+      "section": "图像与空间效果",
+      "source_line": 105,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:ef11d27476e8cbbe + design_plan regional decisions + fixed-browser actual measurements + reference_fidelity comparison",
+      "limitation": "Machine checks validate coverage, bytes and observed changes; color/material fidelity, illustration richness and coherent feedback still require screenshot review and protected visual approval.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "fe49eeaadbe6a8ad",
+      "section": "图像与空间效果",
+      "source_line": 106,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:fe49eeaadbe6a8ad",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "b8556f3f42a3706a",
+      "section": "图像与空间效果",
+      "source_line": 107,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:b8556f3f42a3706a",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "deef06292a9d99ca",
+      "section": "图像与空间效果",
+      "source_line": 108,
+      "method": "workflow",
+      "route": "verify.py spatial_findings: used/omitted decision and reason; if adopted, real mesh/file identity and fixed-render assertion; actual generation and scene review",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": true
+    },
+    {
+      "id": "f258b41348ca128c",
+      "section": "图像与空间效果",
+      "source_line": 109,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:f258b41348ca128c",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "c67d39f8c642fd09",
+      "method": "tool_provenance",
+      "route": "critic.py process receipt + current screenshot binding + independent review + protected approval",
+      "limitation": "Execution and version checks establish the current recorded review. Aesthetic judgment remains model-based and protected approval uses its own identity.",
+      "conditional_allowed": false,
+      "section": "Critic 美学评审",
+      "source_line": 112
+    },
+    {
+      "id": "92ff1cd690a11bde",
+      "method": "visual_review",
+      "route": "critic.py process receipt + current screenshot binding + independent review + protected approval",
+      "limitation": "Execution and version checks establish the current recorded review. Aesthetic judgment remains model-based and protected approval uses its own identity.",
+      "conditional_allowed": false,
+      "section": "Critic 美学评审",
+      "source_line": 113
+    },
+    {
+      "id": "6e068c2928aa5033",
+      "method": "workflow",
+      "route": "critic.py process receipt + current screenshot binding + independent review + protected approval",
+      "limitation": "Execution and version checks establish the current recorded review. Aesthetic judgment remains model-based and protected approval uses its own identity.",
+      "conditional_allowed": false,
+      "section": "Critic 美学评审",
+      "source_line": 114
+    },
+    {
+      "id": "09bd8693dfb710af",
+      "section": "交付前核对",
+      "source_line": 117,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:09bd8693dfb710af",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "0700fb009dc0987b",
+      "section": "交付前核对",
+      "source_line": 118,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:0700fb009dc0987b",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "cb509648e0047aa6",
+      "section": "交付前核对",
+      "source_line": 119,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:cb509648e0047aa6",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "1acb9c52ab6ce1e8",
+      "section": "交付前核对",
+      "source_line": 120,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:1acb9c52ab6ce1e8",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "b9a58eccfc685db2",
+      "section": "交付前核对",
+      "source_line": 121,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "4748bc17d89eb308",
+      "section": "交付前核对",
+      "source_line": 122,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "e0d4ca20d6df03da",
+      "section": "交付前核对",
+      "source_line": 123,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "8cc2c745adb2b42a",
+      "section": "交付前核对",
+      "source_line": 124,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "725f43d3c0f4273a",
+      "section": "验收说明：通过之后才算完成",
+      "source_line": 127,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history + typography declared/actual glyph checks + delivery-review current evidence receipt",
+      "limitation": "Font measurements identify rendered families; final quality and improvement judgments require actual scoped observations and applicable independent approval.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "7eca313d56cdaa3c",
+      "section": "验收说明：通过之后才算完成",
+      "source_line": 128,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "b716380d03ad86d7",
+      "section": "验收说明：通过之后才算完成",
+      "source_line": 129,
+      "method": "automated",
+      "route": "verify.py source_findings/browser_findings/verify/hook",
+      "limitation": "Only the supported executable subset is checked. Scan candidates and remaining semantics require actual review; no match is not full compliance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "3c83ac67c196c300",
+      "section": "验收说明：通过之后才算完成",
+      "source_line": 130,
+      "method": "visual_review",
+      "route": "actual browser/design comparison + rule:3c83ac67c196c300",
+      "limitation": "Observe this exact source clause in the affected regions and states. Self-review never establishes independent acceptance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "6fcb15e1485b7ce0",
+      "section": "验收说明：通过之后才算完成",
+      "source_line": 131,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "aa24cdbd1f1df15a",
+      "section": "验收说明：通过之后才算完成",
+      "source_line": 132,
+      "method": "workflow",
+      "route": "verify.py component_findings: selection/version/docs/import/use/customization records; actual Context7/official tool history review + actual style labels + regional reference comparison + evidence-derived checklist",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "1e4de26f5b64ca7c",
+      "section": "验收说明：通过之后才算完成",
+      "source_line": 133,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "670861d4b3b6f50b",
+      "section": "验收说明：通过之后才算完成",
+      "source_line": 134,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "b1c57a9e1d698ece",
+      "section": "验收说明：通过之后才算完成",
+      "source_line": 135,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "e27ff2fba4ad06d3",
+      "section": "工作流检查机制（仅明确启用）",
+      "source_line": 138,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "568fee11f0e4cd22",
+      "section": "工作流检查机制（仅明确启用）",
+      "source_line": 139,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "f708fd0fa47cf1b6",
+      "section": "工作流检查机制（仅明确启用）",
+      "source_line": 140,
+      "method": "automated",
+      "route": "verify.py source_findings/browser_findings/verify/hook",
+      "limitation": "Only the supported executable subset is checked. Scan candidates and remaining semantics require actual review; no match is not full compliance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "a0ef60f1b8a36640",
+      "section": "工作流检查机制（仅明确启用）",
+      "source_line": 141,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "5eed425cf40d3be1",
+      "section": "工作流检查机制（仅明确启用）",
+      "source_line": 142,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "0aa1e029dcc40cfe",
+      "section": "工作流检查机制（仅明确启用）",
+      "source_line": 143,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "5f7ba215d5fe07b0",
+      "section": "工作流检查机制（仅明确启用）",
+      "source_line": 144,
+      "method": "automated",
+      "route": "verify.py source_findings/browser_findings/verify/hook",
+      "limitation": "Only the supported executable subset is checked. Scan candidates and remaining semantics require actual review; no match is not full compliance.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "aaa22e1584042319",
+      "section": "工作流检查机制（仅明确启用）",
+      "source_line": 145,
+      "method": "workflow",
+      "route": "SKILL.md + task scope + implementation checklist + actual work history",
+      "limitation": "The workflow records this requirement; recording a statement does not prove execution. Review task history and relevant artifacts.",
+      "conditional_allowed": false
+    },
+    {
+      "id": "fee56d837f3d0da5",
+      "section": "工作流检查机制（仅明确启用）",
+      "source_line": 146,
+      "method": "automated",
+      "route": "verify.py source_findings/browser_findings/verify/hook",
+      "limitation": "Only the supported executable subset is checked. Scan candidates and remaining semantics require actual review; no match is not full compliance.",
+      "conditional_allowed": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "rounds": [
+    {
+      "observations": [
+        {"area": "rules", "observed": "", "evidence": []},
+        {"area": "quality", "observed": "", "evidence": []},
+        {"area": "scope", "observed": "", "evidence": []}
+      ],
+      "improvements": []
+    }
+  ],
+  "remaining_improvements": [],
+  "completion_reason": ""
+}

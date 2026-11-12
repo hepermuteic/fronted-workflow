@@ -1,0 +1,5 @@
+{
+  "commands": [],
+  "browser_spec": "work/frontend-policy/browser-spec.json",
+  "critic": true
+}

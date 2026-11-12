@@ -1,0 +1,78 @@
+{
+  "status": "PASS",
+  "scope": "Controlled fixed-browser regressions only",
+  "cases": [
+    {
+      "case": "modern-css",
+      "expected": "forbidden color",
+      "actual": "FAIL",
+      "receipt": "ae47859ad9344217a54f0a09a9d54063"
+    },
+    {
+      "case": "short-hex",
+      "expected": "forbidden color",
+      "actual": "FAIL",
+      "receipt": "6b39e434199749acb5fa1a725c84e4a6"
+    },
+    {
+      "case": "pseudo-copy",
+      "expected": "mechanical checks pass",
+      "actual": "PASS",
+      "receipt": "4654e86526704eb6af6500d91d5b26fc"
+    },
+    {
+      "case": "split-copy",
+      "expected": "mechanical checks pass",
+      "actual": "PASS",
+      "receipt": "ab631dd91dd64df5834d1439fa2e852a"
+    },
+    {
+      "case": "output-copy",
+      "expected": "mechanical checks pass",
+      "actual": "PASS",
+      "receipt": "841bedd7b7b44db4a51e4081e2d325e0"
+    },
+    {
+      "case": "pseudo-icon",
+      "expected": "Emoji",
+      "actual": "FAIL",
+      "receipt": "8e917c89a50b4f229c35717c5bd7a084"
+    },
+    {
+      "case": "even-columns",
+      "expected": "equal-width",
+      "actual": "FAIL",
+      "receipt": "44bf035f87024adeace263a894241641"
+    },
+    {
+      "case": "linear-transition",
+      "expected": "easing",
+      "actual": "FAIL",
+      "receipt": "67c321909cb84aec89b23d2c912e7c3d"
+    },
+    {
+      "case": "linear-waapi",
+      "expected": "easing",
+      "actual": "FAIL",
+      "receipt": "0379bf9259954bb9b8f8021095ac70f4"
+    },
+    {
+      "case": "custom-motion",
+      "expected": "mechanical checks pass",
+      "actual": "PASS",
+      "receipt": "6bf0824fad1b4cfc98686bf508608904"
+    },
+    {
+      "case": "asymmetric-layout",
+      "expected": "mechanical checks pass",
+      "actual": "PASS",
+      "receipt": "d75e026bcbe84b9194b4947e32f37ea2"
+    },
+    {
+      "case": "short-copy",
+      "expected": "mechanical checks pass",
+      "actual": "PASS",
+      "receipt": "c8e21107aff8440aa735b802d892669c"
+    }
+  ]
+}

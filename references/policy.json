@@ -1,0 +1,23 @@
+{
+  "version": "7.0.0",
+  "invocation": "explicit",
+  "source_rules": "references/frontend-design-rules.md",
+  "profiles": [
+    "strict",
+    "project",
+    "expressive"
+  ],
+  "strict_rules": {
+    "copy_limit": null,
+    "forbidden_hex": [
+      "#6366f1",
+      "#8b5cf6"
+    ],
+    "default_palette": true,
+    "forbidden_easing": [
+      "linear",
+      "ease-in-out"
+    ]
+  },
+  "repair_continuations": 2
+}
